@@ -1,0 +1,66 @@
+Question 1:
+100
+
+Question 2:
+Gene Lewin
+
+Question 3:
+George Brewer
+
+Question 4:
+Prepare 100 food packages
+Take packages to the warehouse
+
+Question 5:
+food and water
+
+Question 6:
+bottle of antibiotics
+bottle of aspirin
+flashlight
+pack of bandages
+
+Question 7:
+Prepare 20 children's packages
+Prepare 100 water packages
+Prepare 5,000 packages
+
+Question 8:
+Joan Simmons
+Chris Jordan
+
+Question 9:
+Julie White
+Gerry Banks
+
+Question 10:
+Baby formula
+
+Question 11:
+open | 4
+closed | 4
+ongoing | 2
+pending | 1
+
+Question 12:
+106 | 308.0
+
+Question 13:
+3
+
+Question 14:
+can of spam
+dried fruit
+tent
+men's coat
+women's coat
+sleeping bag
+
+Question 15:
+6 | 150.0
+2 | 151.0
+4 | 350.0
+10 | 750.0
+5 | 1420.0
+
+
